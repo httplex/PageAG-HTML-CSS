@@ -1,0 +1,155 @@
+.center{
+    position:absolute;
+    top: 0%;
+    margin: 0;
+    text-align: center;
+}
+
+.fundo{
+    position:absolute;
+    top: 280px;
+    height: auto;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.esquerda{
+    position:absolute;
+    top: -330px;
+    margin: 1130px;
+    text-align: center;
+}
+
+.direita{
+    position:absolute;
+    top: 250px;
+    margin: 290px;
+    text-align: center;
+}
+
+.gr{
+    position:absolute;
+    top: 400px;
+    margin: 120px;
+    text-align: center;
+}
+
+.gv{
+    position:absolute;
+    top: 900px;
+    margin: 20px;
+    text-align: center;
+}
+
+.aut{
+    position:absolute;
+    top: 210px;
+    left: 50px;
+    margin: 0px;
+    text-align: center;
+}
+
+/*imagens do pet.html*/
+
+.peet1{
+    position:absolute;
+    top: 620px;
+    left: 50px;
+    margin: 0px;
+    text-align: center;
+}
+
+.peet2{ 
+    position:absolute;
+    top: 1000px;
+    left: 50px;
+    margin: 10px;
+    text-align: center;
+}
+
+.peet3{
+    position:absolute;
+    top: -540px;
+    left: 50px;
+    margin: 850px;
+    text-align: center;
+}
+
+.peet4{
+    position:absolute;
+    top: -240px;
+    left: 50px;
+    margin: 850px;
+    text-align: center;
+}
+
+.peet5{
+    position:absolute;
+    top: 160px;
+    left: 50px;
+    margin: 750px;
+    text-align: center;
+}
+
+.peet6{
+    position:absolute;
+    top: 610px;
+    left: 50px;
+    margin: 650px;
+    text-align: center;
+}
+
+
+.peet7{
+    position:absolute;
+    top: 1450px;
+    left: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.peet8{
+    position:absolute;
+    top: 400px;
+    left: 50px;
+    margin: 400px;
+    text-align: center;
+}
+
+/*videos do video.html*/
+
+.vide2{
+    position:absolute;
+    top: -500px;
+    margin: 750px;
+    text-align: center;
+}
+
+.vide3{
+    position:absolute;
+    top: -40px;
+    margin: 750px;
+    text-align: center;
+}
+
+.vide4{
+    position:absolute;
+    top: 500px;
+    margin: 750px;
+    text-align: center;
+}
+
+.vide5{
+    position:absolute;
+    top: 700px;
+    margin: 50px;
+    text-align: center;
+}
+
+.vide6{
+    position:absolute;
+    top: 1300px;
+    margin: 50px;
+    text-align: center;
+}
